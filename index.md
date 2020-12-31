@@ -18,28 +18,6 @@ Disclaimer: At the time of writing, the authors have a modest ability and the ad
 
 Please enjoy and good luck with competitive programming.
 
-## Content
-
-- [Basics](/1)
-- [Chapter 2](/2)
-- [Chapter 3](/3)
-- [Level up](/m)
-- [Finale](http://tomhe88888.surge.sh)
-- [FAQ](faq??)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *Note*: Even though we are a guide on competitive programming, our main purpose is to help students in informatics programs. As such, we will try not to deviate from the [IOI syllabus](https://people.ksp.sk/~misof/ioi-syllabus/ioi-syllabus.pdf), and any subjects outside this curriculum will be marked as such.
 
 */ancient*
